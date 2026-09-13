@@ -108,3 +108,14 @@ context, not to claim that ReviewLens will directly reduce returns.
 
 ReviewLens' impact would need to be validated through controlled
 experimentation after implementation.
+### Research Methodology Note
+
+The figures above are secondary research sourced from publicly
+available reporting and the National Consumer Helpline's company-wise
+grievance dashboard. They were not independently collected or
+calculated as part of this case study.
+
+They are used to provide external context and validate the scale of
+customer-experience problems. They are not presented as evidence of
+ReviewLens' potential impact, which would require product-level
+experimentation.
