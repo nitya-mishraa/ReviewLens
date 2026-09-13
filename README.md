@@ -23,6 +23,12 @@ ReviewLens introduces a "Product Reality Snapshot" that summarizes recurring cus
 
 The goal is not to replace reviews, but to make the most useful information from them easier to understand before purchase.
 
+## Prototype
+
+A mockup of the Product Reality Snapshot on a Myntra product page:
+
+![ReviewLens Product Reality Snapshot mockup on a Myntra product page](prototype/reviewlens_product_page.png)
+
 ## Project Type
 
 Product Management Case Study
@@ -37,3 +43,10 @@ Product Management Case Study
 - MVP Prototyping
 - Product Metrics
 - Experimentation
+
+## Repository Structure
+
+- `docs/` — problem statement, proposed solution, user flow, MVP scope
+- `research/` — user interviews, competitive & gap analysis, supporting market data
+- `analysis/` — data and analytics plan
+- `prototype/` — product page mockup
